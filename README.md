@@ -7,3 +7,4 @@ Website can be use to track down total cases all over the world showing Active C
 -CSS
 -Bootstrap
 -Grid/Flex
+-Layouts
